@@ -1,0 +1,1 @@
+import{r as e}from"./supabase.config-DYZMnBbn.js";var r="viruflix_remember_me",i=Object.freeze({auth:Object.freeze({}),from:()=>{throw new Error("Direct database access is disabled in the public client.")},rpc:()=>{throw new Error("Direct RPC access is disabled in the public client.")}});export{r as REMEMBER_ME_KEY,e as isSupabaseConfigured,i as supabase};

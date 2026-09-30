@@ -1,0 +1,106 @@
+{
+  "name": "viruflix-public",
+  "private": true,
+  "version": "3.0.0",
+  "author": "Steven Miranda",
+  "main": "electron/main.js",
+  "description": "Public portfolio edition of ViruFlix",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:public": "node scripts/build-public.mjs",
+    "verify:public": "node scripts/verify-public.mjs",
+    "electron:build:public": "npm run build:public && electron-builder --config electron-builder.public.yml",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "preview": "vite preview",
+    "electron": "electron .",
+    "kill-port": "node scripts/kill-port.js 5173",
+    "electron:dev": "npm run kill-port && concurrently \"npm run dev\" \"wait-on http://localhost:5173 && node scripts/run-electron-quiet.js\"",
+    "electron:dev:raw": "npm run kill-port && concurrently \"npm run dev\" \"wait-on http://localhost:5173 && electron .\"",
+    "electron:build": "npm run build && electron-builder",
+    "electron:publish": "npm run build && electron-builder --publish always",
+    "electron:pack": "npm run build && electron-builder --dir",
+    "icon:copy": "powershell -ExecutionPolicy Bypass -File scripts/copiar-icono-linux.ps1"
+  },
+  "dependencies": {
+    "dashjs": "^5.1.1",
+    "electron-updater": "^6.8.3",
+    "framer-motion": "^13.1.1",
+    "hls.js": "^1.6.16",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.2",
+    "web-vitals": "^6.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.0",
+    "@vitest/coverage-v8": "^4.1.11",
+    "concurrently": "^10.0.5",
+    "electron": "^44.0.0",
+    "electron-builder": "^26.8.1",
+    "eslint": "^9.39.5",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.5.0",
+    "jsdom": "^29.1.1",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^4.3.3",
+    "terser": "^5.46.0",
+    "vite": "^8.2.2",
+    "vite-plugin-pwa": "^1.2.0",
+    "vitest": "^4.1.11",
+    "wait-on": "^9.0.3"
+  },
+  "build": {
+    "appId": "com.stevenmiranda.viruflix.public",
+    "productName": "ViruFlix Public",
+    "directories": {
+      "output": "release"
+    },
+    "publish": {
+      "provider": "github",
+      "owner": "Enigma1x",
+      "repo": "ViruFlix-Public"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "package.json",
+      "src/assets/icons/vf_Symbol.png"
+    ],
+    "extraResources": [],
+    "asar": true,
+    "win": {
+      "target": "nsis",
+      "icon": "src/assets/icons/vf_Symbol.png",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "runAfterFinish": true,
+      "warningsAsErrors": false,
+      "artifactName": "${productName}-Setup-${version}.${ext}"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "src/assets/icons/vf_Symbol.png"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "src/assets/icons/vf_Symbol.png"
+    }
+  }
+}

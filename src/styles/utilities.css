@@ -1,0 +1,211 @@
+/**
+ * Clases Utilitarias Globales
+ * 
+ * Clases reutilizables que siguen principios de diseño consistente.
+ * Estas clases pueden ser usadas en cualquier componente.
+ */
+
+/* ============================================
+   CONTENEDORES
+   ============================================ */
+.container {
+  width: 100%;
+  max-width: var(--container-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--container-padding-mobile);
+  padding-right: var(--container-padding-mobile);
+}
+
+/* Contenedor principal de Viruflix. Se mantiene como CSS normal para que
+   Vite dev y el build de producción lo emitan de forma idéntica. */
+.viruflix-container {
+  width: 100%;
+  max-width: var(--container-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--container-padding-mobile);
+  padding-right: var(--container-padding-mobile);
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: var(--container-padding-tablet);
+    padding-right: var(--container-padding-tablet);
+  }
+
+.viruflix-container {
+  padding-left: var(--container-padding-tablet);
+  padding-right: var(--container-padding-tablet);
+}
+}
+
+@media (min-width: 1024px) {
+  .container {
+    padding-left: var(--container-padding-desktop);
+    padding-right: var(--container-padding-desktop);
+  }
+
+.viruflix-container {
+  padding-left: var(--container-padding-desktop);
+  padding-right: var(--container-padding-desktop);
+}
+}
+
+/* ============================================
+   FONDOS
+   ============================================ */
+.bg-primary {
+  background-color: var(--color-bg-primary) !important;
+}
+
+.bg-secondary {
+  background-color: var(--color-bg-secondary) !important;
+}
+
+.bg-tertiary {
+  background-color: var(--color-bg-tertiary) !important;
+}
+
+.bg-overlay {
+  background-color: var(--color-bg-overlay) !important;
+}
+
+/* ============================================
+   TEXTO
+   ============================================ */
+.text-primary {
+  color: var(--color-text-primary) !important;
+}
+
+.text-secondary {
+  color: var(--color-text-secondary) !important;
+}
+
+.text-tertiary {
+  color: var(--color-text-tertiary) !important;
+}
+
+.text-muted {
+  color: var(--color-text-muted) !important;
+}
+
+/* ============================================
+   ESPACIADO
+   ============================================ */
+.spacing-section {
+  padding-top: var(--spacing-2xl);
+  padding-bottom: var(--spacing-2xl);
+}
+
+.spacing-section-sm {
+  padding-top: var(--spacing-xl);
+  padding-bottom: var(--spacing-xl);
+}
+
+.spacing-section-lg {
+  padding-top: var(--spacing-3xl);
+  padding-bottom: var(--spacing-3xl);
+}
+
+/* ============================================
+   SCROLLBAR
+   ============================================ */
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+/* ============================================
+   TRANSICIONES
+   ============================================ */
+.transition-fast {
+  transition: all var(--transition-fast);
+}
+
+.transition-base {
+  transition: all var(--transition-base);
+}
+
+.transition-slow {
+  transition: all var(--transition-slow);
+}
+
+/* ============================================
+   CURSORES
+   ============================================ */
+.cursor-grab {
+  cursor: grab;
+}
+
+.cursor-grab:active {
+  cursor: grabbing;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* ============================================
+   TAMAÑOS DE CARDS
+   ============================================ */
+.movie-card {
+  width: var(--card-width-mobile);
+  flex-shrink: 0;
+}
+
+@media (min-width: 640px) {
+  .movie-card {
+    width: var(--card-width-sm);
+  }
+}
+
+@media (min-width: 768px) {
+  .movie-card {
+    width: var(--card-width-md);
+  }
+}
+
+@media (min-width: 1024px) {
+  .movie-card {
+    width: var(--card-width-lg);
+  }
+}
+
+/* ============================================
+   UTILIDADES DE DISPLAY
+   ============================================ */
+.fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+

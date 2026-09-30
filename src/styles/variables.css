@@ -1,0 +1,147 @@
+/**
+ * Variables CSS Globales
+ * 
+ * Define todas las variables de diseño del proyecto para mantener consistencia
+ * y facilitar el mantenimiento. Siguiendo principios de diseño system.
+ */
+
+:root {
+  /* Colores principales - Deep Void */
+  --color-bg-primary: #0B0C10;
+  --color-bg-secondary: #111218;
+  --color-bg-tertiary: #1a1a1a;
+  --color-bg-overlay: rgba(11, 12, 16, 0.9);
+  --color-bg-card: rgba(17, 18, 24, 0.6);
+  --color-bg-card-hover: rgba(17, 18, 24, 0.8);
+  
+  /* Colores de texto */
+  --color-text-primary: #ffffff; /* Blanco puro para titulares */
+  --color-text-secondary: #B3B3B3; /* Gris suave para descripciones */
+  --color-text-tertiary: #9ca3af;
+  --color-text-muted: #6b7280;
+  
+  /* Colores de marca - Viruflix */
+  --color-brand-primary: #E50914; /* Viru Red - Color principal (estilo streaming, pero único) */
+  --color-brand-secondary: #45F3FF; /* Electric Cyan - Color de acento vibrante */
+  --color-brand-accent: #45F3FF; /* Electric Cyan - Para iconos activos, hover, etiquetas */
+  --color-brand-dark: #0B0C10; /* Deep Void - Fondo principal */
+  --color-brand-dark-alt: #111218; /* Deep Void alternativo */
+  
+  /* Colores funcionales */
+  --color-accent: #45F3FF; /* Electric Cyan como accent */
+  --color-success: #45F3FF; /* Electric Cyan para éxito */
+  --color-warning: #FFA500; /* Naranja para advertencias */
+  --color-error: #E50914; /* Viru Red para errores */
+  
+  /* Colores de ranking (Top 10) */
+  --color-rank-badge: #45F3FF; /* Electric Cyan */
+  --color-rank-badge-dark: #00D4E6;
+  
+  /* Espaciado */
+  --spacing-xs: 0.25rem;   /* 4px */
+  --spacing-sm: 0.5rem;    /* 8px */
+  --spacing-md: 1rem;      /* 16px */
+  --spacing-lg: 1.5rem;    /* 24px */
+  --spacing-xl: 2rem;      /* 32px */
+  --spacing-2xl: 3rem;     /* 48px */
+  --spacing-3xl: 4rem;     /* 64px */
+  
+  /* Tamaños de contenedor */
+  --container-max-width: 1280px;
+  --container-padding-mobile: 1rem;
+  --container-padding-tablet: 1.5rem;
+  --container-padding-desktop: 2rem;
+  
+  /* Tamaños de cards de películas - tamaño normal para Home (excepto recomendaciones) */
+  --card-width-mobile: 11rem;      /* 176px - tamaño normal */
+  --card-width-sm: 12rem;           /* 192px - tamaño normal */
+  --card-width-md: 13rem;           /* 208px - tamaño normal */
+  --card-width-lg: 14rem;           /* 224px - tamaño normal */
+  
+  /* Tamaños de cards Top 10 (pueden ser diferentes) */
+  --card-top10-width-mobile: 10rem; /* 160px / w-40 */
+  --card-top10-width-sm: 11rem;     /* 176px / w-44 */
+  --card-top10-width-md: 13rem;      /* 208px / w-52 */
+  --card-top10-width-lg: 14rem;      /* 224px / w-56 */
+  
+  /* Tipografía */
+  --font-family-heading: 'Bebas Neue', 'Arial Narrow', Arial, sans-serif;
+  --font-family-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  --font-family-primary: var(--font-family-body); /* Mantener compatibilidad */
+  --font-size-xs: 0.75rem;    /* 12px */
+  --font-size-sm: 0.875rem;   /* 14px */
+  --font-size-base: 1rem;     /* 16px */
+  --font-size-lg: 1.125rem;   /* 18px */
+  --font-size-xl: 1.25rem;    /* 20px */
+  --font-size-2xl: 1.5rem;    /* 24px */
+  --font-size-3xl: 1.875rem;  /* 30px */
+  --font-size-4xl: 2.25rem;   /* 36px */
+  --font-size-5xl: 3rem;      /* 48px */
+  --font-size-6xl: 3.75rem;   /* 60px */
+  --font-size-7xl: 4.5rem;    /* 72px */
+  
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  
+  /* Bordes */
+  --border-radius-sm: 0.25rem;   /* 4px */
+  --border-radius-md: 0.5rem;    /* 8px */
+  --border-radius-lg: 0.75rem;   /* 12px */
+  --border-radius-xl: 1rem;      /* 16px */
+  --border-radius-full: 9999px;
+  
+  --border-width-thin: 1px;
+  --border-width-medium: 2px;
+  --border-width-thick: 3px;
+  
+  /* Sombras */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  
+  /* Transiciones */
+  --transition-fast: 150ms ease-in-out;
+  --transition-base: 200ms ease-in-out;
+  --transition-slow: 300ms ease-in-out;
+  --transition-slower: 500ms ease-in-out;
+  
+  /* Z-index layers */
+  --z-base: 0;
+  --z-dropdown: 1000;
+  --z-sticky: 1020;
+  --z-fixed: 1030;
+  --z-modal-backdrop: 1040;
+  --z-modal: 1050;
+  --z-popover: 1060;
+  --z-tooltip: 1070;
+  
+  /* Breakpoints (para uso en JavaScript si es necesario) */
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+
+  /* --- Identidad Viruflix (tokens semanticos) --- */
+  --viru-ring-focus: #E50914;
+  --viru-ring-focus-offset: var(--color-bg-primary);
+  --viru-ring-glow: rgba(229, 9, 20, 0.35);
+  --viru-header-scrim-from: rgba(0, 0, 0, 0.82);
+  --viru-header-scrim-to: transparent;
+  --viru-surface-menu: rgba(17, 18, 24, 0.96);
+  --viru-border-subtle: rgba(255, 255, 255, 0.08);
+  --viru-border-strong: rgba(55, 65, 81, 0.55);
+  --viru-glow-cyan: rgba(69, 243, 255, 0.18);
+  --viru-shadow-card: 0 12px 40px rgba(0, 0, 0, 0.55);
+  --viru-shadow-elevated: 0 8px 32px rgba(0, 0, 0, 0.45);
+  --viru-nav-underline: rgba(69, 243, 255, 0.85);
+  --motion-duration-fast: 150ms;
+  --motion-duration-base: 220ms;
+  --motion-duration-slow: 320ms;
+  --motion-ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+

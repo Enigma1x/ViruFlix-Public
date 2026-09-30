@@ -1,0 +1,6 @@
+# Videasy - robots.txt para despliegue
+User-agent: *
+Allow: /
+
+# Opcional: descomentar para no indexar (app tipo streaming)
+# Disallow: /

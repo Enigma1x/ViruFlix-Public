@@ -1,0 +1,22 @@
+node_modules/
+.env
+.env.*
+!.env.example
+supabase/.env
+release/
+releases/
+*.log
+*.cache
+.vite/
+coverage/
+.DS_Store
+Thumbs.db
+# Electron artifacts are generated outside this repository.
+*.exe
+*.dmg
+*.AppImage
+latest.yml
+*.blockmap
+# Keep the public static build in Git.
+!dist/
+!dist/**

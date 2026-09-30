@@ -1,0 +1,20 @@
+/**
+ * Componentes de presentacion Viruflix (capa @components de Tailwind).
+ * Complementa variables.css y las utilidades de index.css.
+ */
+
+@media (prefers-reduced-motion: reduce) {
+  .viru-nav-link,
+  .viru-nav-link::after {
+    transition: none !important;
+  }
+
+  .viru-nav-link::after {
+    transform: scaleX(0) !important;
+  }
+
+  .viru-nav-link:hover::after,
+  .viru-nav-link:focus-visible::after {
+    transform: scaleX(1) !important;
+  }
+}

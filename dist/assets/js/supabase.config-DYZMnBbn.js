@@ -1,0 +1,1 @@
+var e=Object.freeze({BASE_URL:String("").trim().replace(/\/$/,""),DEMO_MODE:"true"===String("true").toLowerCase()});function r(){return Boolean(e.BASE_URL)}function t(){return!r()}Object.freeze({URL:"",ANON_KEY:""});function n(){return r()}export{t as n,n as r,e as t};

@@ -1,0 +1,1247 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-cr.xml"
+
+# ═══════════════════════════════════════════════════════════════
+# CANALES INFANTILES / KIDS
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="3ABN.Kids.Network.us2" tvg-name="3ABN Kids Network" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Infantil",3ABN Kids Network
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="BabyFirst TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/BabyFirst_Logo.png" group-title="Infantil",BabyFirst TV
+
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Infantil",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network HD [LATINO 181]
+http://181.209.105.115:2525/play/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network [LATINO 179]
+http://179.60.51.134:8888/CARTOON-NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="Disney Channel HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="Infantil",Disney Channel HD [LATINO 181]
+http://181.209.105.115:2525/play/disneychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="Infantil",Disney Channel
+
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantil",Disney Junior [LATINO 181]
+http://181.209.105.115:2525/play/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantil",Disney Junior
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Infantil",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Nickelodeon" tvg-name="Nickelodeon [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Infantil",Nickelodeon [LATINO 181]
+http://181.209.105.115:2525/play/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Nickelodeon" tvg-name="Nickelodeon [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Infantil",Nickelodeon [LATINO 179]
+http://179.60.51.134:8888/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Infantil",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Infantil",Nickelodeon (West)
+
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick Jr [LATINO 181]" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Infantil",Nick Jr [LATINO 181]
+http://181.209.105.115:2525/play/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick Jr [LATINO 179]" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Infantil",Nick Jr [LATINO 179]
+http://179.60.51.134:8888/NICK-JR/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr HD" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Infantil",Nick Jr
+
+#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="Nick Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/NickMusic_Splat.svg/revision/latest/scale-to-width-down/250?cb=20240129184250" group-title="Infantil",Nick Music
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="Infantil",NickToons
+http://212.102.60.231/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick90sKids.us" tvg-name="NickRewind" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/NickRewindSplat-SocMed-2023.svg/revision/latest/scale-to-width-down/1200?cb=20230922085413" group-title="Infantil",Nick Rewind
+
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="Infantil",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="Teen Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Infantil",Teen Nick
+
+#EXTINF:-1 tvg-id="Teen.Nick.(Pacific).us2" tvg-name="Teen Nick (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Infantil",Teen Nick (West)
+
+#EXTINF:-1 tvg-id="NickTotallyTeen.us" tvg-name="TeenNick PlutoTV" tvg-logo="https://vignette2.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20111127040207" group-title="Infantil",Teen Nick PlutoTV
+
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/960px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="Infantil",Starz Kids & Family
+
+#EXTINF:-1 tvg-id="Starz.Kids.HD.(Pacific).us2" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/960px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="Infantil",Starz Kids & Family (West)
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Discovery_Family_Logo_%282014%29.svg" group-title="Infantil",Discovery Family
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Infantil) ---
+
+#EXTINF:-1 tvg-name="Baby TV [LATINO 181]" group-title="Infantil",Baby TV [LATINO 181]
+http://181.209.105.115:2525/play/babytv/index.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV [LATINO 179]" group-title="Infantil",Baby TV [LATINO 179]
+http://179.60.51.134:8888/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito [LATINO 179]" group-title="Infantil",Cartoonito [LATINO 179]
+http://179.60.51.134:8888/CARTOONITO/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="Discovery Kids [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_l.png" group-title="Infantil",Discovery Kids [LATINO 181]
+http://181.209.105.115:2525/play/discoverykids/index.m3u8
+
+#EXTINF:-1 tvg-name="Pakapaka [LATINO 181]" group-title="Infantil",Pakapaka [LATINO 181]
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# NOTICIAS / NEWS
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="Noticias",ABC News Live
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News (North America) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="Noticias",BBC News
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News National Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/960px-CBS_News_2020_%28Stacked_II%29.svg.png" group-title="Noticias",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="MX - CNN" tvg-name="CNN [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/960px-CNN_Logo_%282014%29.svg.png" group-title="Noticias",CNN [LATINO 179]
+http://179.60.51.134:8888/CNN/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/960px-CNN_Logo_%282014%29.svg.png" group-title="Noticias",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" group-title="Noticias",CNN International
+
+#EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Deutsche_Welle_Logo.svg" group-title="Noticias",DW (Deutsche Welle Europe)
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News Channel
+
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fox_Business_%282%29.svg/960px-Fox_Business_%282%29.svg.png" group-title="Noticias",Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 tvg-id="France 24 English HD" tvg-name="France 24 English HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/960px-France_24_logo_%282013%29.svg.png" group-title="Noticias",France 24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Noticias",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+
+#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png" group-title="Noticias",MS NOW
+http://41.205.93.154/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="Noticias",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="N2.Newsmax2.us2" tvg-name="N2 Newsmax2" tvg-logo="" group-title="Noticias",Newsmax2
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="https://www.newsnationnow.com/wp-content/themes/newsnation/client/static/newsnation-app-landing/images/newsnation-hero-logo.png" group-title="Noticias",NewsNation
+
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="Noticias",OANN
+https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Scripps_News_logo.svg" group-title="Noticias",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png" group-title="Noticias",C-SPAN
+
+#EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Noticias",C-SPAN 2
+
+#EXTINF:-1 tvg-id="CSPAN3.us2" tvg-name="CSPAN3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Noticias",C-SPAN 3
+
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Noticias",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/960px-CNBC_World_2025.svg.png" group-title="Noticias",CNBC World
+
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg" group-title="Noticias",Bloomberg
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Noticias) ---
+
+#EXTINF:-1 tvg-name="A24 [LATINO 181]" group-title="Noticias",A24 [LATINO 181]
+http://181.209.105.115:2525/play/a24/index.m3u8
+
+#EXTINF:-1 tvg-name="C5N [LATINO 181]" group-title="Noticias",C5N [LATINO 181]
+http://181.209.105.115:2525/play/c5n/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 26 [LATINO 181]" group-title="Noticias",Canal 26 [LATINO 181]
+http://181.209.105.115:2525/play/c26/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - CNN en Español" tvg-name="CNN en Español [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cnn-en-espanol_l.png" group-title="Noticias",CNN en Español [LATINO 181]
+http://181.209.105.115:2525/play/cnn/index.m3u8
+
+#EXTINF:-1 tvg-name="Crónica [LATINO 181]" group-title="Noticias",Crónica [LATINO 181]
+http://181.209.105.115:2525/play/cronica/index.m3u8
+
+#EXTINF:-1 tvg-name="La Nación TV [LATINO 181]" group-title="Noticias",La Nación TV [LATINO 181]
+http://181.209.105.115:2525/play/lanacion/index.m3u8
+
+#EXTINF:-1 tvg-name="RT en Español [LATINO 181]" group-title="Noticias",RT en Español [LATINO 181]
+http://181.209.105.115:2525/play/rtenespa/index.m3u8
+
+#EXTINF:-1 tvg-name="RT en Español [LATINO 179]" group-title="Noticias",RT en Español [LATINO 179]
+http://179.60.51.134:8888/RT/index.m3u8
+
+#EXTINF:-1 tvg-name="TN HD [LATINO 181]" group-title="Noticias",TN HD [LATINO 181]
+http://181.209.105.115:2525/play/tn/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# DEPORTES / SPORTS
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/960px-ACC_Network_ESPN_logo.svg.png" group-title="Deportes",ACC Network
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Deportes",beIN Sport USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" group-title="Deportes",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/960px-CBS_Sports_Network_2021.svg.png" group-title="Deportes",CBS Sports Network
+
+#EXTINF:-1 tvg-id="MX - ESPN" tvg-name="ESPN HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD [LATINO 181]
+http://181.209.105.115:2525/play/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - ESPN" tvg-name="ESPN [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN [LATINO 179]
+http://179.60.51.134:8888/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="ESPN 2 HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD [LATINO 181]
+http://181.209.105.115:2525/play/espn2/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="ESPN 2 [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 [LATINO 179]
+http://179.60.51.134:8888/ESPN2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
+
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="Deportes",ESPNEWS
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png" group-title="Deportes",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel.TV.us2" tvg-name="FanDuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/FanDuel_TV_logo.svg" group-title="Deportes",FanDuel TV
+
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/960px-Fox_Soccer_Plus_logo.svg.png" group-title="Deportes",Fox Soccer Plus
+
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Fox Sports HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/960px-2015_Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports HD [LATINO 181]
+http://181.209.105.115:2525/play/foxsports/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/960px-2015_Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1
+
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Fox Sports 2 HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png" group-title="Deportes",Fox Sports 2 HD [LATINO 181]
+http://181.209.105.115:2525/play/foxsports2/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Fox Sports 2 [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png" group-title="Deportes",Fox Sports 2 [LATINO 179]
+http://179.60.51.134:8888/FOXSPORTS2/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png" group-title="Deportes",Fox Sports 2
+
+#EXTINF:-1 tvg-name="GOL TV [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/GolTV_logo.svg" group-title="Deportes",GOL TV [LATINO 179]
+http://179.60.51.134:8888/GOLTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GOL.TV.us2" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/GolTV_logo.svg" group-title="Deportes",GOL TV
+
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Deportes",Golf Channel
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280px-Longhorn_Network_logo.svg.png" group-title="Deportes",Longhorn Network
+
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png" group-title="Deportes",Marquee Sports Network
+
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/960px-MLBNetworkLogo.svg.png" group-title="Deportes",MLB Network
+
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Network Strike Zone HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MLB_Network_Strike_Zone.png/revision/latest?cb=20221211002759" group-title="Deportes",MLB Strike Zone
+
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" group-title="Deportes",MSG (Madison Square Gardens)
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Deportes",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-bay-area.png" group-title="Deportes",NBC Sports Bay Area
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Deportes",NBC Sports Boston
+
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-california.png" group-title="Deportes",NBC Sports California
+
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1200px-NBC_Sports_Chicago_Logo.svg.png" group-title="Deportes",NBC Sports Chicago
+
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/640px-NBC_Sports_Philadelphia.png" group-title="Deportes",NBC Sports Philadelphia
+
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="NBC Sports Washington" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="Deportes",NBC Sports Washington
+
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="New England Sports Network HD" tvg-logo="" group-title="Deportes",NESN (New England Sports Network)
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+
+#EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN+ New England Sports Network Plus" tvg-logo="" group-title="Deportes",NESN+ (New England Sports Network Plus)
+
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Deportes",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712" group-title="Deportes",NFL RedZone
+
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="Deportes",NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Deportes",Pac-12 Network
+
+#EXTINF:-1 tvg-id="ROOT.Sports.Northwest.HD.us2" tvg-name="ROOT Sports Northwest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Root_Sports_logo.svg" group-title="Deportes",ROOT Sports Northwest
+
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/960px-SEC_Network_%282024%29.svg.png" group-title="Deportes",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY SportsNet New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/SNY_logo.svg" group-title="Deportes",SNY SportsNet New York
+
+#EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="Deportes",Stadium
+http://212.102.60.231/STADIUM/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel HD" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Deportes",Tennis Channel
+
+#EXTINF:-1 tvg-id="TennisChannelPlus.us" tvg-name="Tennis Channel Plus" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Deportes",Tennis Channel Plus
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Deportes",TSN 1
+
+#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Deportes",TSN 2
+
+#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Deportes",TSN 3
+
+#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Deportes",TSN 4
+
+#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Deportes",TSN 5
+
+#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/960px-WWE_official_logo.svg.png" group-title="Deportes",WWE Network
+
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Deportes",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Deportes) ---
+
+#EXTINF:-1 tvg-name="AM Sports [LATINO 181]" group-title="Deportes",AM Sports [LATINO 181]
+http://181.209.105.115:2525/play/amsport/index.m3u8
+
+#EXTINF:-1 tvg-name="DeporTV [LATINO 181]" group-title="Deportes",DeporTV [LATINO 181]
+http://181.209.105.115:2525/play/deportv/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-3_l.png" group-title="Deportes",ESPN 3 HD [LATINO 181]
+http://181.209.105.115:2525/play/espn3/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-3_l.png" group-title="Deportes",ESPN 3 [LATINO 179]
+http://179.60.51.134:8888/ESPN3/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 HD [LATINO 181]" group-title="Deportes",ESPN 4 HD [LATINO 181]
+http://181.209.105.115:2525/play/espn4/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 [LATINO 179]" group-title="Deportes",ESPN 4 [LATINO 179]
+http://179.60.51.134:8888/ESPN4/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium HD [LATINO 181]" group-title="Deportes",ESPN Premium HD [LATINO 181]
+http://181.209.105.115:2525/play/espnpremium/index.m3u8
+
+#EXTINF:-1 tvg-name="EVENTOS [LATINO 181]" group-title="Deportes",EVENTOS [LATINO 181]
+http://181.209.105.115:2525/play/evento/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Fox Sports 3 HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-3_l.png" group-title="Deportes",Fox Sports 3 HD [LATINO 181]
+http://181.209.105.115:2525/play/foxsports3/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports HD [LATINO 181]" group-title="Deportes",TNT Sports HD [LATINO 181]
+http://181.209.105.115:2525/play/tntsports/index.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports HD [LATINO 181]" group-title="Deportes",TyC Sports HD [LATINO 181]
+http://181.209.105.115:2525/play/tycsports/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# CINE PREMIUM / MOVIES PREMIUM
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="Cinemax [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Cine Premium",Cinemax [LATINO 181]
+http://181.209.105.115:2525/play/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="Cinemax [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Cine Premium",Cinemax [LATINO 179]
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Cine Premium",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Cine Premium",Cinemax (West)
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png" group-title="Cine Premium",Cinemax Action
+
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="5 StarMax HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Cinemax_Classics_Logo.png" group-title="Cine Premium",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cinemax_Hits_Logo.png" group-title="Cine Premium",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Crave1.HD.ca2" tvg-name="Crave1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Cine Premium",Crave 1
+
+#EXTINF:-1 tvg-id="Crave2.HD.ca2" tvg-name="Crave2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Cine Premium",Crave 2
+
+#EXTINF:-1 tvg-id="Crave3.HD.ca2" tvg-name="Crave3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Cine Premium",Crave 3
+
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Cine Premium",Crave 4
+
+#EXTINF:-1 tvg-id="MX - HBO" tvg-name="HBO [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Cine Premium",HBO [LATINO 181]
+http://181.209.105.115:2525/play/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Cine Premium",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Cine Premium",HBO (West)
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Cine Premium",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Cine Premium",HBO Comedy (West)
+
+#EXTINF:-1 tvg-name="HBO Signature [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Cine Premium",HBO Signature [LATINO 181]
+http://181.209.105.115:2525/play/hbosignature/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Cine Premium",HBO Drama
+
+#EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Cine Premium",HBO Drama (West)
+
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="HBO Family [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Cine Premium",HBO Family [LATINO 181]
+http://181.209.105.115:2525/play/hbofamily/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Cine Premium",HBO Family
+
+#EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Cine Premium",HBO Family (West)
+
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="HBO 2 [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Cine Premium",HBO 2 [LATINO 181]
+http://181.209.105.115:2525/play/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Cine Premium",HBO Hits
+
+#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO2 HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Cine Premium",HBO Hits (West)
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Cine Premium",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.(Pacific).us2" tvg-name="HBO Zone HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Cine Premium",HBO Movies (West)
+
+#EXTINF:-1 tvg-name="HBO Xtreme [LATINO 181]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg" group-title="Cine Premium",HBO Xtreme [LATINO 181]
+http://181.209.105.115:2525/play/hboxtreme/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Xtreme.-.East.us" tvg-name="HBO Xtreme - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg" group-title="Cine Premium",HBO Xtreme
+
+#EXTINF:-1 tvg-id="IndiePlex.HD.us2" tvg-name="Indieplex HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Cine Premium",IndiePlex
+
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg" group-title="Cine Premium",MGM+
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23325.rtmp
+
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/MGM%2B_Drive-In_2023.svg" group-title="Cine Premium",MGM+ Drive-In
+
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MGM%2B_Hits_2023.svg" group-title="Cine Premium",MGM+ Hits
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23326.rtmp
+
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/MGM%2B_Marquee_2023.svg" group-title="Cine Premium",MGM+ Marquee
+
+#EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" tvg-logo="" group-title="Cine Premium",MGM Presents
+https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
+
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/960px-Movieplex_logo.svg.png" group-title="Cine Premium",MoviePlex
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Cine Premium",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Paramount+ with Showtime HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Cine Premium",Showtime (West)
+
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Cine Premium",Showtime 2
+
+#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Cine Premium",Showtime 2 (West)
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Cine Premium",Showtime Extreme
+
+#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Cine Premium",Showtime Extreme (West)
+
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Familyzone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Cine Premium",Showtime Family Zone
+
+#EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Cine Premium",Showtime Family Zone (West)
+
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Cine Premium",Showtime Next
+
+#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Cine Premium",Showtime Next (West)
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-name="Showtime Showcase HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Cine Premium",Showtime Showcase
+
+#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Cine Premium",Showtime Showcase (West)
+
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Cine Premium",Showtime Women
+
+#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Cine Premium",Showtime Women (West)
+
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHO x BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Cine Premium",SHOxBET
+
+#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Cine Premium",SHOxBET (West)
+
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png" group-title="Cine Premium",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png" group-title="Cine Premium",Starz (West)
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/960px-Starz_Cinema_Logo_2022.svg.png" group-title="Cine Premium",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/960px-Starz_Cinema_Logo_2022.svg.png" group-title="Cine Premium",Starz Cinema (West)
+
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/960px-Starz_Comedy_Logo_2022.svg.png" group-title="Cine Premium",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/960px-Starz_Comedy_Logo_2022.svg.png" group-title="Cine Premium",Starz Comedy (West)
+
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Cine Premium",Starz Edge
+
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Cine Premium",Starz Edge (West)
+
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore
+http://212.102.60.231/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore (West)
+
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/960px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore Action
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/960px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore Black
+
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/960px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore Classic
+
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/960px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore Family
+
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/960px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore Suspense
+
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/960px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Cine Premium",Starz Encore Westerns
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/960px-Starz_in_Black_Logo_2022.svg.png" group-title="Cine Premium",Starz in Black
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/960px-Starz_in_Black_Logo_2022.svg.png" group-title="Cine Premium",Starz in Black (West)
+
+#EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Cine Premium",RetroPlex
+
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="Cine Premium",HDNet Movies
+
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sundance_TV_Logo.png/960px-Sundance_TV_Logo.png" group-title="Cine Premium",SundanceTV
+
+#EXTINF:-1 tvg-name="Sony Movies HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine Premium",Sony Movies HD [LATINO 181]
+http://181.209.105.115:2525/play/sonymovies/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine Premium",Sony Movie Channel
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/960px-FX_Movies_logo.svg.png" group-title="Cine Premium",FXM
+
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Cine Premium",LMN (Lifetime Movie Network)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+
+#EXTINF:-1 tvg-id="PixL.us2" tvg-name="PixL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Cine Premium",PixL
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Cine Premium) ---
+
+#EXTINF:-1 tvg-name="CINE.AR [LATINO 181]" group-title="Cine Premium",CINE.AR [LATINO 181]
+http://181.209.105.115:2525/play/cinear/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Cinecanal" tvg-name="Cinecanal HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_l.png" group-title="Cine Premium",Cinecanal HD [LATINO 181]
+http://181.209.105.115:2525/play/cinecanal/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Europa Europa" tvg-name="Europa Europa [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_l.png" group-title="Cine Premium",Europa Europa [LATINO 181]
+http://181.209.105.115:2525/play/europaeuropa/index.m3u8
+
+#EXTINF:-1 tvg-name="Film & Arts HD [LATINO 181]" group-title="Cine Premium",Film & Arts HD [LATINO 181]
+http://181.209.105.115:2525/play/filmarts/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi [LATINO 181]" group-title="Cine Premium",HBO Mundi [LATINO 181]
+http://181.209.105.115:2525/play/hbomondi/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus [LATINO 181]" group-title="Cine Premium",HBO Plus [LATINO 181]
+http://181.209.105.115:2525/play/hboplus/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="Space HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_l.png" group-title="Cine Premium",Space HD [LATINO 181]
+http://181.209.105.115:2525/play/space/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="Space [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_l.png" group-title="Cine Premium",Space [LATINO 179]
+http://179.60.51.134:8888/SPACE/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="Studio Universal [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_l.png" group-title="Cine Premium",Studio Universal [LATINO 181]
+http://181.209.105.115:2525/play/studiouniversal/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - TNT" tvg-name="TNT HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_l.png" group-title="Cine Premium",TNT HD [LATINO 181]
+http://181.209.105.115:2525/play/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - TNT" tvg-name="TNT [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_l.png" group-title="Cine Premium",TNT [LATINO 179]
+http://179.60.51.134:8888/TNT/index.m3u8
+
+#EXTINF:-1 tvg-name="Volver [LATINO 181]" group-title="Cine Premium",Volver [LATINO 181]
+http://181.209.105.115:2525/play/volver/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# ENTRETENIMIENTO / ENTERTAINMENT
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-name="A&E HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E HD [LATINO 181]
+http://181.209.105.115:2525/play/ae/index.m3u8
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A and E HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
+http://41.205.93.154/AandE/index.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="AdultSwim com Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",AdultSwim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="MX - AMC" tvg-name="AMC [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento",AMC [LATINO 181]
+http://181.209.105.115:2525/play/amc/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - AMC" tvg-name="AMC [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento",AMC [LATINO 179]
+http://179.60.51.134:8888/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento",AMC
+
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Entretenimiento",AMC Plus
+http://41.205.93.154/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" group-title="Entretenimiento",American Heroes Channel
+
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="Animal Planet [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Entretenimiento",Animal Planet [LATINO 179]
+http://179.60.51.134:8888/ANIMAL-PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Entretenimiento",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Entretenimiento",Antenna
+
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="ASPiRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Aspire_tv.png" group-title="Entretenimiento",ASPiRE
+
+#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/AXS_TV_logo.svg" group-title="Entretenimiento",AXS TV
+
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Entretenimiento",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Entretenimiento",BET
+
+#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/BET_Gospel_2022.png" group-title="Entretenimiento",BET Gospel
+
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Entretenimiento",BET Her
+
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/BET_Jams_2021.png" group-title="Entretenimiento",BET Jams
+
+#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Entretenimiento",BET Soul
+
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Bravo_2024.svg" group-title="Entretenimiento",Bravo
+http://41.205.93.154/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Buzzr_logo.svg" group-title="Entretenimiento",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us2" tvg-name="Charge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/960px-Charge%21_Logo_2020.svg.png" group-title="Entretenimiento",Charge
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Circle_Country_logo.webp/960px-Circle_Country_logo.webp.png" group-title="Entretenimiento",Circle Country
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="Entretenimiento",Cleo TV
+
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Entretenimiento",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+
+#EXTINF:-1 tvg-id="CMTMusic.us" tvg-name="CMT Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CMT_Music_boxed.svg/revision/latest?cb=20231211211250" group-title="Entretenimiento",CMT Music
+
+#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="Comedy Central HD [LATINO 181]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Entretenimiento",Comedy Central HD [LATINO 181]
+http://181.209.105.115:2525/play/comedycentral/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Entretenimiento",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy.TV HD" tvg-logo="" group-title="Entretenimiento",Comedy.TV
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="Entretenimiento",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel HD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Entretenimiento",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Entretenimiento",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="Entretenimiento",Cowboy Channel
+
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="" group-title="Entretenimiento",Cozi TV
+
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Entretenimiento",Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime and Investigation Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Entretenimiento",Crime & Investigation
+
+#EXTINF:-1 tvg-id="Curiosity.Channel(Stream).us" tvg-name="Curiosity Channel(Stream)" tvg-logo="" group-title="Entretenimiento",Curiosity Channel(Stream)
+
+#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" group-title="Entretenimiento",CW
+
+#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="CW Plus East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_CW_Plus_2021.svg/960px-The_CW_Plus_2021.svg.png" group-title="Entretenimiento",CW Plus
+
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Entretenimiento",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Discovery Channel HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Entretenimiento",Discovery Channel HD [LATINO 181]
+http://181.209.105.115:2525/play/discoverychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Discovery Channel [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Entretenimiento",Discovery Channel [LATINO 179]
+http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Entretenimiento",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Discovery_Life_logo_2016.svg" group-title="Entretenimiento",Discovery Life
+
+#EXTINF:-1 tvg-id="DOG.TV.us2" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Entretenimiento",DOG TV
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/960px-E%21_Logo_Flat_2012.svg.png" group-title="Entretenimiento",E! Entertainment Television
+http://23.237.104.106:8080/USA_E/index.m3u8
+
+#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="Family Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Entretenimiento",Family Entertainment Television
+
+#EXTINF:-1 tvg-name="Food Network [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/960px-Food_Network_logo.svg.png" group-title="Entretenimiento",Food Network [LATINO 179]
+http://179.60.51.134:8888/FOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/960px-Food_Network_logo.svg.png" group-title="Entretenimiento",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entretenimiento",Fox
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Soul.us2" tvg-name="Fox Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Fox-Soul-logo-network.png" group-title="Entretenimiento",Fox Soul
+
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Freeform_2022_%282%29.svg/960px-Freeform_2022_%282%29.svg.png" group-title="Entretenimiento",Freeform
+
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Entretenimiento",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="FX HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entretenimiento",FX HD [LATINO 181]
+http://181.209.105.115:2525/play/fx/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="FX [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entretenimiento",FX [LATINO 179]
+http://179.60.51.134:8888/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entretenimiento",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entretenimiento",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Entretenimiento",FYI
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png" group-title="Entretenimiento",Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Get_TV_2023.png" group-title="Entretenimiento",get
+
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Entretenimiento",Great American Family
+
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/GRIT_TV_Logo.svg" group-title="Entretenimiento",Grit
+
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Hallmark_Channel_2022_logo.svg" group-title="Entretenimiento",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Hallmark_Family_2024.svg" group-title="Entretenimiento",Hallmark Family
+
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" group-title="Entretenimiento",Hallmark Mystery
+
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes and Icons Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/1200px-Heroes_%26_Icons_logo.svg.png" group-title="Entretenimiento",H&I (Heroes & Icons)
+
+#EXTINF:-1 tvg-name="HGTV [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Entretenimiento",HGTV [LATINO 181]
+http://181.209.105.115:2525/play/hgtv/index.m3u8
+
+#EXTINF:-1 tvg-name="HGTV [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Entretenimiento",HGTV [LATINO 179]
+http://179.60.51.134:8888/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="Home and Garden Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Entretenimiento",HGTV
+
+#EXTINF:-1 tvg-id="MX - History" tvg-name="The History Channel HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento",The History Channel HD [LATINO 181]
+http://181.209.105.115:2525/play/thehistorychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - History" tvg-name="History [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento",History [LATINO 179]
+http://179.60.51.134:8888/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento",History
+
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/960px-IFC_2018_logo.svg.png" group-title="Entretenimiento",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Investigation Discovery [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Investigation_Discovery_full_2020.svg/960px-Investigation_Discovery_full_2020.svg.png" group-title="Entretenimiento",Investigation Discovery [LATINO 179]
+http://179.60.51.134:8888/ID-DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Investigation_Discovery_full_2020.svg/960px-Investigation_Discovery_full_2020.svg.png" group-title="Entretenimiento",ID (Investigation Discovery)
+http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Investigation_Discovery_full_2020.svg/960px-Investigation_Discovery_full_2020.svg.png" group-title="Entretenimiento",ID (Investigation Discovery) (West)
+
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/INSP_2022.svg/960px-INSP_2022.svg.png" group-title="Entretenimiento",INSP
+
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Entretenimiento",ION
+
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="Entretenimiento",ION Mystery
+
+#EXTINF:-1 tvg-id="ION.Plus.us2" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Ion_Plus_2024.svg" group-title="Entretenimiento",ION Plus
+
+#EXTINF:-1 tvg-id="Jewelry.Television.us" tvg-name="Jewelry Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="Entretenimiento",Jewelry TV
+
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Entretenimiento",Laff
+
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law and Crime" tvg-logo="" group-title="Entretenimiento",Law and Crime
+https://lawandcrime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Entretenimiento",Lifetime [LATINO 181]
+http://181.209.105.115:2525/play/lifetime/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Entretenimiento",Lifetime
+
+#EXTINF:-1 tvg-id="Lifetime.Real.Women.us2" tvg-name="Lifetime Real Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Entretenimiento",Lifetime Real Women
+
+#EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Entretenimiento",Logo
+
+#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="" group-title="Entretenimiento",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="Entretenimiento",Magnolia
+
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="Me TV Network" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Entretenimiento",MeTV
+
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://animesuperhero.com/wp-content/uploads/2024/05/MeTV-Toons.png" group-title="Entretenimiento",MeTV Toons
+
+#EXTINF:-1 tvg-id="Military.History.Channel.us2" tvg-name="Military History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="Entretenimiento",Military History Channel
+
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="MOTORTREND HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="Entretenimiento",MOTORTREND
+
+#EXTINF:-1 tvg-id="Much.us2" tvg-name="Much" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Much_-_2013_logo.svg" group-title="Entretenimiento",Much
+
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/NASA_logo.svg/revision/latest?cb=20210622024945" group-title="Entretenimiento",NASA TV
+
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="Nat Geo HD [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Entretenimiento",Nat Geo HD [LATINO 181]
+http://181.209.105.115:2525/play/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="National Geographic [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Entretenimiento",National Geographic [LATINO 179]
+http://179.60.51.134:8888/NATGEO/index.m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Entretenimiento",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Entretenimiento",National Geographic (West)
+
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="National Geographic Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Entretenimiento",National Geographic Wild
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Entretenimiento",NBC
+
+#EXTINF:-1 tvg-id="NBC.West.Stream.us2" tvg-name="NBC West Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Entretenimiento",NBC (West)
+
+#EXTINF:-1 tvg-id="NHK.World.TV.us2" tvg-name="NHK World TV" tvg-logo="https://sing.com.br/wp-content/uploads/2019/11/NHK-japan-1030x1030.png" group-title="Entretenimiento",NHK World TV
+
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/960px-The_Nest_2023.svg.png" group-title="Entretenimiento",Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Entretenimiento",Olympic Channel
+
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Entretenimiento",Oprah Winfrey Network
+
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.(Pacific.A.Feed).us2" tvg-name="Oprah Winfrey Network (Pacific A Feed)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Entretenimiento",Oprah Winfrey Network (West)
+
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Entretenimiento",Outdoor Channel
+
+#EXTINF:-1 tvg-id="Outside.Television.HD.us2" tvg-name="Outside Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Outside_TV.png" group-title="Entretenimiento",Outside Television
+
+#EXTINF:-1 tvg-id="Ovation.HD.us2" tvg-name="Ovation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Ovation_TV_2018.jpg" group-title="Entretenimiento",Ovation
+
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Entretenimiento",Oxygen True Crime
+
+#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Entretenimiento",Oxygen (West)
+
+#EXTINF:-1 tvg-name="Paramount Network [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/960px-Paramount_Network_2024.svg.png" group-title="Entretenimiento",Paramount Network [LATINO 179]
+http://179.60.51.134:8888/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/960px-Paramount_Network_2024.svg.png" group-title="Entretenimiento",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.Stream.us2" tvg-name="PBS Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Entretenimiento",PBS
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Peachtree.TV.us2" tvg-name="Peachtree TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/220px-WPCH-TV_logo.svg.png" group-title="Entretenimiento",Peachtree TV
+
+#EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Pop_Network_Logo.svg" group-title="Entretenimiento",POP
+
+#EXTINF:-1 tvg-id="Pursuit.Channel.us2" tvg-name="Pursuit Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" group-title="Entretenimiento",Pursuit Channel
+
+#EXTINF:-1 tvg-id="RACER.Network.HD.us2" tvg-name="RACER Network HD" tvg-logo="" group-title="Entretenimiento",RACER Network
+
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="ReelzChannel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Reelz.svg" group-title="Entretenimiento",Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="Revolt HD" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Entretenimiento",Revolt
+
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="ROAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/960px-Roar_%282025%29.svg.png" group-title="Entretenimiento",ROAR TV
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Science Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Entretenimiento",Science Channel
+
+#EXTINF:-1 tvg-id="Smile.us" tvg-name="Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Entretenimiento",Smile
+
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian HD Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="Entretenimiento",Smithsonian
+
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Entretenimiento",Start TV Network
+
+#EXTINF:-1 tvg-id="MX - Syfy" tvg-name="Syfy [LATINO 179]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Entretenimiento",Syfy [LATINO 179]
+http://179.60.51.134:8888/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Entretenimiento",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="Syfy HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Entretenimiento",SYFY (West)
+
+#EXTINF:-1 tvg-id="Trinity.Broadcasting.Network.HD.us2" tvg-name="TBN  - Trinity Broadcasting Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trinity_Broadcasting_Network_logo_%282016%29.svg/960px-Trinity_Broadcasting_Network_logo_%282016%29.svg.png" group-title="Entretenimiento",TBN
+
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Entretenimiento",TBS
+http://212.102.60.231/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Entretenimiento",TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="MX - TCM" tvg-name="TCM [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="Entretenimiento",TCM [LATINO 181]
+http://181.209.105.115:2525/play/tcm/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - TCM" tvg-name="TCM [LATINO 179]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="Entretenimiento",TCM [LATINO 179]
+http://179.60.51.134:8888/TCM/index.m3u8
+
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="Entretenimiento",TCM (Turner Classic Movies)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="Entretenimiento",Travel Channel
+
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="The Travel Channel HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Entretenimiento",Travel Channel (West)
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="Entretenimiento",truTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="Entretenimiento",truTV (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Entretenimiento",Tr3s: MTV
+
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Entretenimiento",TV Land
+
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Entretenimiento",TV Land (West)
+
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV-One-logo-2016.png" group-title="Entretenimiento",TV ONE
+
+#EXTINF:-1 tvg-id="Universo.us" tvg-name="NBC Universo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",NBC Universo East
+
+#EXTINF:-1 tvg-id="UniversoPacific.us" tvg-name="NBC Universo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",NBC Universo (West)
+
+#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/960px-UPtv_logo.svg.png" group-title="Entretenimiento",UPtv
+
+#EXTINF:-1 tvg-name="USA Network [LATINO 181]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/960px-USA_Network_2020.svg.png" group-title="Entretenimiento",USA Network [LATINO 181]
+http://181.209.105.115:2525/play/usanetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/960px-USA_Network_2020.svg.png" group-title="Entretenimiento",USA Network
+
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/960px-VH1_logo.svg.png" group-title="Entretenimiento",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vice_logo.svg/960px-Vice_logo.svg.png" group-title="Entretenimiento",Vice
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/960px-W_Network_Logo.svg.png" group-title="Entretenimiento",W Network
+
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/960px-Wetv-july-2024-logo.svg.png" group-title="Entretenimiento",WE (Women's Entertainment)
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/960px-WFN_2014_logo.svg.png" group-title="Entretenimiento",World Fishing Network
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Entretenimiento) ---
+
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_axn_l.png" group-title="Entretenimiento",AXN HD [LATINO 181]
+http://181.209.105.115:2525/play/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_axn_l.png" group-title="Entretenimiento",AXN [LATINO 179]
+http://179.60.51.134:8888/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Discovery Home &amp; Health" tvg-name="Discovery H&H HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_l.png" group-title="Entretenimiento",Discovery H&H HD [LATINO 181]
+http://181.209.105.115:2525/play/discoveryhh/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Science [LATINO 181]" group-title="Entretenimiento",Discovery Science [LATINO 181]
+http://181.209.105.115:2525/play/discoveryscience/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="Discovery Theater HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_l.png" group-title="Entretenimiento",Discovery Theater HD [LATINO 181]
+http://181.209.105.115:2525/play/discoverytheater/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo [LATINO 181]" group-title="Entretenimiento",Discovery Turbo [LATINO 181]
+http://181.209.105.115:2525/play/discoveryturbo/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="Discovery World HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-world-hd_l.png" group-title="Entretenimiento",Discovery World HD [LATINO 181]
+http://181.209.105.115:2525/play/discoveryworld/index.m3u8
+
+#EXTINF:-1 tvg-name="El Gourmet [LATINO 181]" group-title="Entretenimiento",El Gourmet [LATINO 181]
+http://181.209.105.115:2525/play/elgourmet/index.m3u8
+
+#EXTINF:-1 tvg-name="Encuentro [LATINO 181]" group-title="Entretenimiento",Encuentro [LATINO 181]
+http://181.209.105.115:2525/play/encuentro/index.m3u8
+
+#EXTINF:-1 tvg-name="Galicia TV [LATINO 181]" group-title="Entretenimiento",Galicia TV [LATINO 181]
+http://181.209.105.115:2525/play/galiciatv/index.m3u8
+
+#EXTINF:-1 tvg-name="History 2 [LATINO 181]" group-title="Entretenimiento",History 2 [LATINO 181]
+http://181.209.105.115:2525/play/history2/index.m3u8
+
+#EXTINF:-1 tvg-name="History 2 [LATINO 179]" group-title="Entretenimiento",History 2 [LATINO 179]
+http://179.60.51.134:8888/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Sony" tvg-name="Sony HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_sony_l.png" group-title="Entretenimiento",Sony HD [LATINO 181]
+http://181.209.105.115:2525/play/sonyhd/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Channel HD [LATINO 181]" group-title="Entretenimiento",Star Channel HD [LATINO 181]
+http://181.209.105.115:2525/play/starchannel/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas HD [LATINO 181]" group-title="Entretenimiento",TNT Novelas HD [LATINO 181]
+http://181.209.105.115:2525/play/tntnovelas/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series HD [LATINO 181]" group-title="Entretenimiento",TNT Series HD [LATINO 181]
+http://181.209.105.115:2525/play/tntseries/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_l.png" group-title="Entretenimiento",Universal HD [LATINO 181]
+http://181.209.105.115:2525/play/universal/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_l.png" group-title="Entretenimiento",Universal [LATINO 179]
+http://179.60.51.134:8888/UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="Warner Channel HD [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_l.png" group-title="Entretenimiento",Warner Channel HD [LATINO 181]
+http://181.209.105.115:2525/play/warnerchannel/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# REDES ABIERTAS / BROADCAST NETWORKS
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/960px-ABC-2021-LOGO.svg.png" group-title="Redes Abiertas",ABC
+
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2_ABC_WMAR_Baltimore.png/960px-2_ABC_WMAR_Baltimore.png" group-title="Redes Abiertas",ABC 2 Baltimore MD (WMAR)
+https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS Streaming SD East feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="Redes Abiertas",CBS
+
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Bounce_TV_logo.svg" group-title="Redes Abiertas",Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" group-title="Redes Abiertas",Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WGN.Chicago,.IL.us" tvg-name="WGN Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/960px-WGN_CW_logo_2024.svg.png" group-title="Redes Abiertas",WGN
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Redes Abiertas) ---
+
+#EXTINF:-1 tvg-name="America TV HD [LATINO 181]" group-title="Redes Abiertas",America TV HD [LATINO 181]
+http://181.209.105.115:2525/play/america/index.m3u8
+
+#EXTINF:-1 tvg-name="ATV [LATINO 179]" group-title="Redes Abiertas",ATV [LATINO 179]
+http://179.60.51.134:8888/ATV/index.m3u8
+
+#EXTINF:-1 tvg-name="Cadena 3 [LATINO 181]" group-title="Redes Abiertas",Cadena 3 [LATINO 181]
+http://181.209.105.115:2525/play/cadena3/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal A [LATINO 181]" group-title="Redes Abiertas",Canal A [LATINO 181]
+http://181.209.105.115:2525/play/canala/index.m3u8
+
+#EXTINF:-1 tvg-name="Ciudad Magazine [LATINO 181]" group-title="Redes Abiertas",Ciudad Magazine [LATINO 181]
+http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="El Canal de las Estrellas [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_canal-de-las-estrellas-xew_l.png" group-title="Redes Abiertas",El Canal de las Estrellas [LATINO 181]
+http://181.209.105.115:2525/play/elcanaldelasestrellas/index.m3u8
+
+#EXTINF:-1 tvg-name="El Nueve HD [LATINO 181]" group-title="Redes Abiertas",El Nueve HD [LATINO 181]
+http://181.209.105.115:2525/play/elnueve/index.m3u8
+
+#EXTINF:-1 tvg-name="El Trece HD [LATINO 181]" group-title="Redes Abiertas",El Trece HD [LATINO 181]
+http://181.209.105.115:2525/play/eltrece/index.m3u8
+
+#EXTINF:-1 tvg-name="Metro [LATINO 181]" group-title="Redes Abiertas",Metro [LATINO 181]
+http://181.209.105.115:2525/play/metro/index.m3u8
+
+#EXTINF:-1 tvg-name="Nacional [LATINO 181]" group-title="Redes Abiertas",Nacional [LATINO 181]
+http://181.209.105.115:2525/play/nacional/index.m3u8
+
+#EXTINF:-1 tvg-name="Rural [LATINO 181]" group-title="Redes Abiertas",Rural [LATINO 181]
+http://181.209.105.115:2525/play/rural/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe HD [LATINO 181]" group-title="Redes Abiertas",Telefe HD [LATINO 181]
+http://181.209.105.115:2525/play/telefe/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Telemundo" tvg-name="Telemundo [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_l.png" group-title="Redes Abiertas",Telemundo [LATINO 179]
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Pública HD [LATINO 181]" group-title="Redes Abiertas",TV Pública HD [LATINO 181]
+http://181.209.105.115:2525/play/tvpublica/index.m3u8
+
+#EXTINF:-1 tvg-name="TVC [LATINO 179]" group-title="Redes Abiertas",TVC [LATINO 179]
+http://179.60.51.134:8888/TVC/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - TVE" tvg-name="TVE [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tve_l.png" group-title="Redes Abiertas",TVE [LATINO 181]
+http://181.209.105.115:2525/play/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - Univision" tvg-name="Univision [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_univision_l.png" group-title="Redes Abiertas",Univision [LATINO 179]
+http://179.60.51.134:8888/UNIVISION/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# MUSICA / MUSIC
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Best of" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="Música",Dance TV - Best of
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="Música",Dance TV - Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Techno Warehouse" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="Música",Dance TV - Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Tech House Terrace" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/th-logo-NspqmEDEOC62mNyeOHpMvusQt8prpj.png" group-title="Música",Dance TV - Tech House Terrace
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="House Floor" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="Música",Dance TV - House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MNML" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202024-10-02%20at%2003.26.40-wBY3tcf4ACTGW9V9Y9HMGenqYJlLQZ.jpeg" group-title="Música",Dance TV - MiNiMaL
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstage" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/mainstage-logo-4vQjTuvQ3qTEzPDIILUAu2MOiYdXnA.png" group-title="Música",Dance TV - Mainstream EDM
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/caf-logo-Tu9IdzvKf3xoe8MzK0JiUYgwKCcqGw.png" group-title="Música",Dance TV - Chill AF Downtempo
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg" group-title="Música",Dance TV - Melodic Tech
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
+
+#EXTINF:-1 tvg-id="Kronehit" tvg-name="Kronehit" tvg-logo="" group-title="Música",Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/MTV_Circle_476x476_SamsungTV.png?$ORIGIN_PNG$" group-title="Música",MTV Biggest Pop
+
+#EXTINF:-1 tvg-id="MTVBlockParty.us" tvg-name="MTV Block Party" tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="Música",MTV Flow Latino
+
+#EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/thumbnail.jpg" group-title="Música",MTV Spankin' New
+
+#EXTINF:-1 tvg-id="Trace.Latina.us" tvg-name="Trace Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Música",Trace Latina
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trace.Urban.us" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Música",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+
+
+# --- NUEVOS / ALTERNATIVAS LATINO (Música) ---
+
+#EXTINF:-1 tvg-name="FM 100 [LATINO 181]" group-title="Música",FM 100 [LATINO 181]
+http://181.209.105.115:2525/play/fm100/index.m3u8
+
+#EXTINF:-1 tvg-name="HTV [LATINO 181]" group-title="Música",HTV [LATINO 181]
+http://181.209.105.115:2525/play/htv/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - MTV" tvg-name="MTV [LATINO 181]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_l.png" group-title="Música",MTV [LATINO 181]
+http://181.209.105.115:2525/play/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="MX - MTV" tvg-name="MTV [LATINO 179]" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_l.png" group-title="Música",MTV [LATINO 179]
+http://179.60.51.134:8888/MTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Quiero Música [LATINO 181]" group-title="Música",Quiero Música [LATINO 181]
+http://181.209.105.115:2525/play/quieromusica/index.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# CLIMA / WEATHER
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AccuWeather_2021.svg/960px-AccuWeather_2021.svg.png" group-title="Clima",AccuWeather
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Fox-weather-logo-stacked-color.svg" group-title="Clima",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/960px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Clima",Weather Channel
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# COMPRAS / SHOPPING
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN Home Shopping Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/960px-HSN_logo.svg.png" group-title="Compras",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="Compras",HSN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/QVC_logo_2019.svg" group-title="Compras",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/QVC_logo_2019.svg" group-title="Compras",QVC (West)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8?delay=10800
+
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/QVC2_logo_2019.svg" group-title="Compras",QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC3.us2" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Compras",QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+
+# ═══════════════════════════════════════════════════════════════
+# ADULTOS / ADULT
+# ═══════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-name="Playboy [LATINO 181]" group-title="Adultos",Playboy [LATINO 181]
+http://181.209.105.115:2525/play/playboy/index.m3u8
+
+#EXTINF:-1 tvg-name="Sextreme [LATINO 181]" group-title="Adultos",Sextreme [LATINO 181]
+http://181.209.105.115:2525/play/sextreme/index.m3u8
+
+#EXTINF:-1 tvg-name="Venus [LATINO 181]" group-title="Adultos",Venus [LATINO 181]
+http://181.209.105.115:2525/play/venus/index.m3u8
+
+#EXTINF:-1,Bajo Techo TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Capricho TV (720p) [Not 24/7]
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
+#EXTINF:-1,Venus Media (1080p)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:-1,TV/Midt-Vest
+https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8
+
+#EXTINF:-1,Webcom Tv
+https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
+
+#EXTINF:-1,RTS Un
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585
+
+#EXTINF:-1,NUBAR Plus TV (720p)
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+
+#EXTINF:-1,Passione Lotto (300p)
+http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
+
+#EXTINF:-1,Cần Thơ TV1 (1080p)
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1,Caribbean Hot 7 TV (720p)
+https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
+
+#EXTINF:-1,Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1,TV Diário Macapá (1080p) [Not 24/7]
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+
+# FUENTES LATINO AGREGADAS: 181.209.105.115 y 179.60.51.134
+# Las alternativas se colocan junto al canal principal cuando existe coincidencia.
